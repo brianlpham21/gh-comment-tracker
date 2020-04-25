@@ -17,7 +17,7 @@ Please include all of the following when building your app.
 -   Use React to build client app
 -   Answer questions below
 
-### Bonus (if you want to flex 💪 / have some extra fun!)
+### Bonus (if you want to flex / have some extra fun!)
 
 -   Create wireframes of your visualization (i.e. using figma)
 -   Add filters to your visualization
