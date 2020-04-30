@@ -1,7 +1,3 @@
-<img src="https://user-images.githubusercontent.com/17414278/79912332-dd36cd00-83ef-11ea-9e18-6e64d6586f4a.png" width="125" />
-
-# Frontend Software Engineer Challenge
-
 ### The Challenge
 
 Given a JSON file of pull requests comments in a fake GitHub repository, generate a visualization that provides valuable insight about the team and its developers. The purpose of the challenge is demonstrate your coding ability and gain an understanding of your design and problem solving skills. Feel free to take as little or as much time as you need for this challenge, we are looking to understand how you design and code with React.
@@ -33,7 +29,3 @@ Please answer the following questions (no need to write an essay!)
 -   What other visualization/insight would you like to provide given all of the data available on GitHub/Slack/Jira?
 -   How long did it take you to complete this challenge?
 -   If you had more time, what would you like to add?
-
-### Submission
-
--   Please upload your submission here, and send an email to <mailto:stephanie.mills@codegem.ca> to confirm you are finished.
